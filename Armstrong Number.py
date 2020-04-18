@@ -1,4 +1,4 @@
-num = 153
+num = 151
 k = len(str(num))
 a = list(map(int, str(num)))
 b = list(map(lambda x: x **k, a))
