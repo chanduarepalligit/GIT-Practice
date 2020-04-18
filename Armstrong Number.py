@@ -1,7 +1,7 @@
 num = 151
 k = len(str(num))
 a = list(map(int, str(num)))
-b = list(map(lambda x: x **k, a))
+b = list(map(lambda x: x ** k, a))
 if sum(b) == num:
     print("Armstrong number")
 else:
