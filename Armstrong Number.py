@@ -19,3 +19,5 @@ if res == num:
     print("Armstrong Number")
 else:
     print("Not an Armstrong Number")
+
+print("Rebase Merge")
