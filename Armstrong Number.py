@@ -19,6 +19,3 @@ if res == num:
     print("Armstrong Number")
 else:
     print("Not an Armstrong Number")
-
-print("Creating branch and committing push from Branch")
-print("Merge Branch in GitHub")
