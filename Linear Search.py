@@ -6,9 +6,9 @@ def linearSearch(lst, key):
             flag = True
             lst2.append(i)
     if flag:
-        print("Element found at index :", end=" ")
+        print("Element found at index :")
         for i in lst2:
-            print(i, end=" ")
+            print(i)
     else:
         print("Key is not found")
 
